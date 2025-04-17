@@ -3,6 +3,8 @@
 
 I’ve just completed an in‑depth Bootstrap course and built this fully static, mobile‑friendly website using the Bootstrap framework. Every component—from the grid layout to the navbar and custom utilities—was crafted to demonstrate modern responsive design best practices.
 
+---
+
 ### 🌟 Feel Free to Use & Modify
 
 This project is released with **no copyright restrictions**.  
@@ -36,7 +38,7 @@ Follow these steps to get a local copy of my code on your PC or laptop:
 
 ## 🛠 Recommended Tools
 
-_Direkomendasikan menggunakan **Visual Studio Code** untuk membuka code atau **CodePen** lainnya._
+It is recommended to use **Visual Studio Code** or another code editor (e.g., **CodePen**) to open and edit the project files.
 
 ---
 
@@ -48,4 +50,3 @@ If you find this code helpful, I’d love your support:
 ✉️ **Share** any feedback or feature requests via GitHub Issues  
 
 Your support helps me keep building and sharing free resources. Thank you! 🙏
-```
